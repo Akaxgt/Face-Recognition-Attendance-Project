@@ -1,2 +1,2 @@
 # Face-Recognition-Attendance-Project
-Face Recognition using MediaPipe
+Face Recognition using CNN and OpenCV
